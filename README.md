@@ -1,2 +1,2 @@
-# ResonateUI
-This is repo for Resonate AI UI
+# docmind-ai
+Exported from Caffeine project: DocMind AI
